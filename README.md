@@ -17,6 +17,7 @@ Classify software licenses into semantic categories using Groq LLM via FastAPI.
 ## Local Setup
 
 pip install -r requirements.txt
+
 uvicorn main:app --reload
 
 
