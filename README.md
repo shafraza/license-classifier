@@ -21,7 +21,7 @@ uvicorn main:app --reload
 
 
 
-## **Next Strategy for Scaling**
+## Next Strategy for Scaling
 
 - **Scaling to 10K licenses/day**:
   - Batch requests and use async pipelines.
