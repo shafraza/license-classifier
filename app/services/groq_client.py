@@ -1,6 +1,6 @@
 import httpx
 
-API_KEY = "APIKEY"
+API_KEY = "API_SECRET_KEY"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 HEADERS = {
